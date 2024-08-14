@@ -1,0 +1,401 @@
+label,climate,shape,flowering,colour,height
+Moonshade Vine,temperate,round,False,blue,7.05
+Moonshade Vine,temperate,round,False,blue,9.4
+Moonshade Vine,temperate,round,False,blue,8.17
+Moonshade Vine,temperate,round,False,blue,9.25
+Moonshade Vine,temperate,round,False,blue,6.72
+Moonshade Vine,temperate,round,False,black,6.9
+Moonshade Vine,temperate,round,False,blue,5.88
+Moonshade Vine,temperate,round,False,black,6.51
+Moonshade Vine,temperate,round,False,purple,9.14
+Moonshade Vine,temperate,round,False,blue,5.33
+Moonshade Vine,temperate,round,False,purple,5.03
+Moonshade Vine,temperate,round,False,black,6.2
+Moonshade Vine,temperate,round,False,purple,9.19
+Moonshade Vine,temperate,round,False,black,9.72
+Moonshade Vine,temperate,round,False,blue,8.48
+Moonshade Vine,temperate,round,False,blue,7.25
+Moonshade Vine,temperate,round,False,blue,5.1
+Moonshade Vine,temperate,round,False,black,5.82
+Moonshade Vine,temperate,round,False,blue,6.07
+Moonshade Vine,temperate,round,False,purple,6.18
+Moonshade Vine,temperate,round,False,purple,7.58
+Moonshade Vine,temperate,round,False,black,7.93
+Moonshade Vine,temperate,round,False,black,8.58
+Moonshade Vine,temperate,round,False,purple,8.54
+Moonshade Vine,temperate,round,False,purple,5.73
+Moonshade Vine,temperate,round,False,blue,9.55
+Moonshade Vine,temperate,round,False,purple,6.3
+Moonshade Vine,temperate,round,False,purple,8.59
+Moonshade Vine,temperate,round,False,black,7.3
+Moonshade Vine,temperate,round,False,black,7.02
+Moonshade Vine,temperate,round,False,black,9.87
+Moonshade Vine,temperate,round,False,blue,8.78
+Moonshade Vine,temperate,round,False,purple,5.06
+Moonshade Vine,temperate,round,False,purple,5.08
+Moonshade Vine,temperate,round,False,purple,9.91
+Moonshade Vine,temperate,round,False,purple,7.78
+Moonshade Vine,temperate,round,False,purple,5.88
+Moonshade Vine,temperate,round,False,purple,7.12
+Moonshade Vine,temperate,round,False,black,5.6
+Moonshade Vine,temperate,round,False,purple,6.29
+Moonshade Vine,temperate,round,False,purple,9.23
+Moonshade Vine,temperate,round,False,black,9.6
+Moonshade Vine,temperate,round,False,blue,6.65
+Moonshade Vine,temperate,round,False,purple,8.64
+Moonshade Vine,temperate,round,False,black,5.45
+Moonshade Vine,temperate,round,False,purple,8.47
+Moonshade Vine,temperate,round,False,purple,6.85
+Moonshade Vine,temperate,round,False,blue,7.63
+Moonshade Vine,temperate,round,False,blue,6.42
+Moonshade Vine,temperate,round,False,black,6.85
+Firebloom,arid,spike,True,orange,1.1
+Firebloom,arid,spike,True,yellow,2.5
+Firebloom,arid,spike,True,orange,1.5
+Firebloom,arid,spike,True,orange,1.19
+Firebloom,arid,spike,True,yellow,2.92
+Firebloom,arid,spike,True,yellow,1.57
+Firebloom,arid,spike,True,red,2.81
+Firebloom,arid,spike,True,yellow,2.23
+Firebloom,arid,spike,True,orange,2.24
+Firebloom,arid,spike,True,orange,1.16
+Firebloom,arid,spike,True,red,1.88
+Firebloom,arid,spike,True,orange,2.5
+Firebloom,arid,spike,True,orange,1.91
+Firebloom,arid,spike,True,orange,1.9
+Firebloom,arid,spike,True,red,1.4
+Firebloom,arid,spike,True,yellow,1.39
+Firebloom,arid,spike,True,yellow,1.03
+Firebloom,arid,spike,True,yellow,1.21
+Firebloom,arid,spike,True,orange,2.9
+Firebloom,arid,spike,True,orange,2.48
+Firebloom,arid,spike,True,yellow,2.91
+Firebloom,arid,spike,True,red,2.9
+Firebloom,arid,spike,True,yellow,1.29
+Firebloom,arid,spike,True,yellow,2.97
+Firebloom,arid,spike,True,red,2.0
+Firebloom,arid,spike,True,red,1.92
+Firebloom,arid,spike,True,orange,1.84
+Firebloom,arid,spike,True,yellow,2.77
+Firebloom,arid,spike,True,orange,1.65
+Firebloom,arid,spike,True,yellow,2.82
+Firebloom,arid,spike,True,yellow,1.03
+Firebloom,arid,spike,True,orange,2.56
+Firebloom,arid,spike,True,yellow,2.67
+Firebloom,arid,spike,True,orange,1.1
+Firebloom,arid,spike,True,yellow,1.51
+Firebloom,arid,spike,True,red,2.05
+Firebloom,arid,spike,True,orange,1.94
+Firebloom,arid,spike,True,yellow,1.06
+Firebloom,arid,spike,True,red,2.38
+Firebloom,arid,spike,True,red,2.6
+Firebloom,arid,spike,True,orange,1.28
+Firebloom,arid,spike,True,yellow,1.18
+Firebloom,arid,spike,True,red,2.05
+Firebloom,arid,spike,True,orange,1.99
+Firebloom,arid,spike,True,yellow,1.33
+Firebloom,arid,spike,True,orange,2.72
+Firebloom,arid,spike,True,red,1.08
+Firebloom,arid,spike,True,red,2.62
+Firebloom,arid,spike,True,orange,2.48
+Firebloom,arid,spike,True,red,2.4
+Everfrost Lily,mountain,round,True,blue,2.09
+Everfrost Lily,mountain,round,True,blue,2.6
+Everfrost Lily,mountain,round,True,blue,3.16
+Everfrost Lily,mountain,round,True,white,3.44
+Everfrost Lily,mountain,round,True,white,2.5
+Everfrost Lily,mountain,round,True,white,2.82
+Everfrost Lily,mountain,round,True,white,4.05
+Everfrost Lily,mountain,round,True,blue,3.23
+Everfrost Lily,mountain,round,True,white,2.55
+Everfrost Lily,mountain,round,True,blue,3.81
+Everfrost Lily,mountain,round,True,white,2.05
+Everfrost Lily,mountain,round,True,white,3.9
+Everfrost Lily,mountain,round,True,blue,3.51
+Everfrost Lily,mountain,round,True,white,3.65
+Everfrost Lily,mountain,round,True,blue,3.78
+Everfrost Lily,mountain,round,True,white,3.61
+Everfrost Lily,mountain,round,True,blue,3.44
+Everfrost Lily,mountain,round,True,white,3.36
+Everfrost Lily,mountain,round,True,blue,4.59
+Everfrost Lily,mountain,round,True,blue,3.85
+Everfrost Lily,mountain,round,True,blue,4.13
+Everfrost Lily,mountain,round,True,white,3.61
+Everfrost Lily,mountain,round,True,white,4.73
+Everfrost Lily,mountain,round,True,blue,3.14
+Everfrost Lily,mountain,round,True,blue,4.14
+Everfrost Lily,mountain,round,True,white,4.86
+Everfrost Lily,mountain,round,True,blue,4.72
+Everfrost Lily,mountain,round,True,blue,4.52
+Everfrost Lily,mountain,round,True,blue,4.11
+Everfrost Lily,mountain,round,True,white,4.01
+Everfrost Lily,mountain,round,True,white,4.65
+Everfrost Lily,mountain,round,True,white,2.36
+Everfrost Lily,mountain,round,True,white,2.84
+Everfrost Lily,mountain,round,True,white,4.38
+Everfrost Lily,mountain,round,True,white,4.0
+Everfrost Lily,mountain,round,True,blue,3.43
+Everfrost Lily,mountain,round,True,blue,3.95
+Everfrost Lily,mountain,round,True,white,2.57
+Everfrost Lily,mountain,round,True,white,3.51
+Everfrost Lily,mountain,round,True,blue,3.67
+Everfrost Lily,mountain,round,True,white,2.52
+Everfrost Lily,mountain,round,True,white,4.93
+Everfrost Lily,mountain,round,True,white,4.56
+Everfrost Lily,mountain,round,True,blue,3.21
+Everfrost Lily,mountain,round,True,blue,2.74
+Everfrost Lily,mountain,round,True,white,3.41
+Everfrost Lily,mountain,round,True,blue,2.08
+Everfrost Lily,mountain,round,True,blue,4.58
+Everfrost Lily,mountain,round,True,white,4.86
+Everfrost Lily,mountain,round,True,white,3.46
+Shadowleaf,temperate,triangular,False,black,1.75
+Shadowleaf,temperate,triangular,False,black,1.67
+Shadowleaf,temperate,triangular,False,green,1.79
+Shadowleaf,temperate,triangular,False,black,1.26
+Shadowleaf,temperate,triangular,False,green,1.14
+Shadowleaf,temperate,triangular,False,black,1.16
+Shadowleaf,temperate,triangular,False,green,1.56
+Shadowleaf,temperate,triangular,False,green,1.69
+Shadowleaf,temperate,triangular,False,green,1.16
+Shadowleaf,temperate,triangular,False,green,1.57
+Shadowleaf,temperate,triangular,False,black,1.34
+Shadowleaf,temperate,triangular,False,green,1.91
+Shadowleaf,temperate,triangular,False,black,1.84
+Shadowleaf,temperate,triangular,False,black,1.21
+Shadowleaf,temperate,triangular,False,green,1.91
+Shadowleaf,temperate,triangular,False,green,1.71
+Shadowleaf,temperate,triangular,False,green,1.34
+Shadowleaf,temperate,triangular,False,black,1.2
+Shadowleaf,temperate,triangular,False,green,1.15
+Shadowleaf,temperate,triangular,False,black,1.27
+Shadowleaf,temperate,triangular,False,black,2.0
+Shadowleaf,temperate,triangular,False,black,1.29
+Shadowleaf,temperate,triangular,False,black,1.24
+Shadowleaf,temperate,triangular,False,green,1.48
+Shadowleaf,temperate,triangular,False,green,1.95
+Shadowleaf,temperate,triangular,False,black,1.62
+Shadowleaf,temperate,triangular,False,black,1.81
+Shadowleaf,temperate,triangular,False,green,1.72
+Shadowleaf,temperate,triangular,False,black,1.08
+Shadowleaf,temperate,triangular,False,black,1.24
+Shadowleaf,temperate,triangular,False,black,1.47
+Shadowleaf,temperate,triangular,False,black,1.67
+Shadowleaf,temperate,triangular,False,black,1.56
+Shadowleaf,temperate,triangular,False,green,1.93
+Shadowleaf,temperate,triangular,False,green,1.91
+Shadowleaf,temperate,triangular,False,green,1.13
+Shadowleaf,temperate,triangular,False,black,1.55
+Shadowleaf,temperate,triangular,False,black,1.53
+Shadowleaf,temperate,triangular,False,green,1.64
+Shadowleaf,temperate,triangular,False,green,1.36
+Shadowleaf,temperate,triangular,False,black,1.26
+Shadowleaf,temperate,triangular,False,green,1.47
+Shadowleaf,temperate,triangular,False,black,1.54
+Shadowleaf,temperate,triangular,False,black,1.26
+Shadowleaf,temperate,triangular,False,black,1.83
+Shadowleaf,temperate,triangular,False,green,1.78
+Shadowleaf,temperate,triangular,False,green,1.28
+Shadowleaf,temperate,triangular,False,green,1.14
+Shadowleaf,temperate,triangular,False,black,1.31
+Shadowleaf,temperate,triangular,False,black,1.73
+Cureleaf,arid,round,True,green,5.84
+Cureleaf,arid,round,True,yellow,5.37
+Cureleaf,arid,round,True,green,3.71
+Cureleaf,arid,round,True,green,3.93
+Cureleaf,arid,round,True,yellow,3.17
+Cureleaf,arid,round,True,green,3.92
+Cureleaf,arid,round,True,green,3.15
+Cureleaf,arid,round,True,yellow,3.47
+Cureleaf,arid,round,True,yellow,3.43
+Cureleaf,arid,round,True,green,5.09
+Cureleaf,arid,round,True,green,5.09
+Cureleaf,arid,round,True,green,3.92
+Cureleaf,arid,round,True,yellow,3.79
+Cureleaf,arid,round,True,yellow,4.06
+Cureleaf,arid,round,True,yellow,3.95
+Cureleaf,arid,round,True,yellow,4.24
+Cureleaf,arid,round,True,green,3.12
+Cureleaf,arid,round,True,green,4.45
+Cureleaf,arid,round,True,green,4.59
+Cureleaf,arid,round,True,green,5.58
+Cureleaf,arid,round,True,yellow,5.68
+Cureleaf,arid,round,True,yellow,5.89
+Cureleaf,arid,round,True,yellow,3.04
+Cureleaf,arid,round,True,yellow,5.65
+Cureleaf,arid,round,True,yellow,3.86
+Cureleaf,arid,round,True,yellow,3.55
+Cureleaf,arid,round,True,green,5.66
+Cureleaf,arid,round,True,green,4.84
+Cureleaf,arid,round,True,yellow,4.52
+Cureleaf,arid,round,True,green,4.47
+Cureleaf,arid,round,True,yellow,4.48
+Cureleaf,arid,round,True,yellow,3.44
+Cureleaf,arid,round,True,yellow,3.14
+Cureleaf,arid,round,True,yellow,5.8
+Cureleaf,arid,round,True,yellow,3.73
+Cureleaf,arid,round,True,yellow,4.23
+Cureleaf,arid,round,True,yellow,4.13
+Cureleaf,arid,round,True,green,4.31
+Cureleaf,arid,round,True,green,3.86
+Cureleaf,arid,round,True,yellow,3.19
+Cureleaf,arid,round,True,green,5.63
+Cureleaf,arid,round,True,yellow,3.67
+Cureleaf,arid,round,True,green,3.15
+Cureleaf,arid,round,True,green,5.05
+Cureleaf,arid,round,True,green,3.8
+Cureleaf,arid,round,True,green,5.79
+Cureleaf,arid,round,True,green,3.96
+Cureleaf,arid,round,True,yellow,4.7
+Cureleaf,arid,round,True,yellow,5.59
+Cureleaf,arid,round,True,green,3.57
+Rainbow Orchid,temperate,rectangular,True,yellow,5.74
+Rainbow Orchid,temperate,rectangular,True,white,4.47
+Rainbow Orchid,temperate,rectangular,True,white,4.57
+Rainbow Orchid,temperate,rectangular,True,black,7.43
+Rainbow Orchid,temperate,rectangular,True,white,5.03
+Rainbow Orchid,temperate,rectangular,True,green,6.98
+Rainbow Orchid,temperate,rectangular,True,yellow,4.53
+Rainbow Orchid,temperate,rectangular,True,green,5.95
+Rainbow Orchid,temperate,rectangular,True,yellow,6.62
+Rainbow Orchid,temperate,rectangular,True,green,4.5
+Rainbow Orchid,temperate,rectangular,True,purple,6.65
+Rainbow Orchid,temperate,rectangular,True,yellow,4.9
+Rainbow Orchid,temperate,rectangular,True,green,7.16
+Rainbow Orchid,temperate,rectangular,True,white,4.89
+Rainbow Orchid,temperate,rectangular,True,red,6.27
+Rainbow Orchid,temperate,rectangular,True,black,4.93
+Rainbow Orchid,temperate,rectangular,True,orange,7.4
+Rainbow Orchid,temperate,rectangular,True,white,7.5
+Rainbow Orchid,temperate,rectangular,True,yellow,7.75
+Rainbow Orchid,temperate,rectangular,True,orange,4.78
+Rainbow Orchid,temperate,rectangular,True,white,5.45
+Rainbow Orchid,temperate,rectangular,True,purple,4.07
+Rainbow Orchid,temperate,rectangular,True,black,6.19
+Rainbow Orchid,temperate,rectangular,True,black,5.62
+Rainbow Orchid,temperate,rectangular,True,red,6.48
+Rainbow Orchid,temperate,rectangular,True,yellow,4.66
+Rainbow Orchid,temperate,rectangular,True,green,4.39
+Rainbow Orchid,temperate,rectangular,True,black,4.23
+Rainbow Orchid,temperate,rectangular,True,blue,6.28
+Rainbow Orchid,temperate,rectangular,True,purple,6.83
+Rainbow Orchid,temperate,rectangular,True,purple,6.72
+Rainbow Orchid,temperate,rectangular,True,black,7.32
+Rainbow Orchid,temperate,rectangular,True,red,7.3
+Rainbow Orchid,temperate,rectangular,True,black,5.43
+Rainbow Orchid,temperate,rectangular,True,purple,5.75
+Rainbow Orchid,temperate,rectangular,True,orange,4.55
+Rainbow Orchid,temperate,rectangular,True,black,4.58
+Rainbow Orchid,temperate,rectangular,True,purple,4.0
+Rainbow Orchid,temperate,rectangular,True,blue,7.76
+Rainbow Orchid,temperate,rectangular,True,yellow,4.15
+Rainbow Orchid,temperate,rectangular,True,red,6.46
+Rainbow Orchid,temperate,rectangular,True,green,4.25
+Rainbow Orchid,temperate,rectangular,True,red,7.39
+Rainbow Orchid,temperate,rectangular,True,blue,5.18
+Rainbow Orchid,temperate,rectangular,True,purple,7.84
+Rainbow Orchid,temperate,rectangular,True,yellow,7.71
+Rainbow Orchid,temperate,rectangular,True,purple,5.16
+Rainbow Orchid,temperate,rectangular,True,black,7.13
+Rainbow Orchid,temperate,rectangular,True,white,7.98
+Rainbow Orchid,temperate,rectangular,True,black,5.46
+Shiftleaf,arid,spike,True,purple,11.58
+Shiftleaf,arid,spike,True,yellow,9.23
+Shiftleaf,arid,spike,True,yellow,6.78
+Shiftleaf,arid,spike,True,yellow,7.76
+Shiftleaf,arid,spike,True,purple,10.33
+Shiftleaf,arid,spike,True,yellow,9.05
+Shiftleaf,arid,spike,True,purple,10.69
+Shiftleaf,arid,spike,True,blue,8.47
+Shiftleaf,arid,spike,True,yellow,9.68
+Shiftleaf,arid,spike,True,blue,10.3
+Shiftleaf,arid,spike,True,blue,10.97
+Shiftleaf,arid,spike,True,blue,10.77
+Shiftleaf,arid,spike,True,blue,7.68
+Shiftleaf,arid,spike,True,blue,6.95
+Shiftleaf,arid,spike,True,purple,10.59
+Shiftleaf,arid,spike,True,purple,6.34
+Shiftleaf,arid,spike,True,purple,11.01
+Shiftleaf,arid,spike,True,blue,6.31
+Shiftleaf,arid,spike,True,black,9.73
+Shiftleaf,arid,spike,True,blue,8.19
+Shiftleaf,arid,spike,True,black,6.26
+Shiftleaf,arid,spike,True,yellow,9.26
+Shiftleaf,arid,spike,True,black,6.75
+Shiftleaf,arid,spike,True,blue,7.89
+Shiftleaf,arid,spike,True,yellow,10.56
+Shiftleaf,arid,spike,True,yellow,10.76
+Shiftleaf,arid,spike,True,blue,7.33
+Shiftleaf,arid,spike,True,blue,6.43
+Shiftleaf,arid,spike,True,purple,9.86
+Shiftleaf,arid,spike,True,purple,10.56
+Shiftleaf,arid,spike,True,black,9.93
+Shiftleaf,arid,spike,True,yellow,6.38
+Shiftleaf,arid,spike,True,purple,9.9
+Shiftleaf,arid,spike,True,blue,8.98
+Shiftleaf,arid,spike,True,yellow,11.36
+Shiftleaf,arid,spike,True,black,6.37
+Shiftleaf,arid,spike,True,black,8.6
+Shiftleaf,arid,spike,True,blue,9.86
+Shiftleaf,arid,spike,True,blue,8.24
+Shiftleaf,arid,spike,True,yellow,7.23
+Shiftleaf,arid,spike,True,purple,8.32
+Shiftleaf,arid,spike,True,blue,8.59
+Shiftleaf,arid,spike,True,black,9.07
+Shiftleaf,arid,spike,True,yellow,8.37
+Shiftleaf,arid,spike,True,yellow,10.25
+Shiftleaf,arid,spike,True,purple,6.81
+Shiftleaf,arid,spike,True,blue,6.1
+Shiftleaf,arid,spike,True,purple,10.22
+Shiftleaf,arid,spike,True,yellow,7.29
+Shiftleaf,arid,spike,True,purple,10.4
+Spinleaf,mountain,triangular,False,yellow,8.39
+Spinleaf,mountain,triangular,False,orange,3.92
+Spinleaf,mountain,triangular,False,yellow,5.72
+Spinleaf,mountain,triangular,False,orange,7.02
+Spinleaf,mountain,triangular,False,yellow,3.15
+Spinleaf,mountain,triangular,False,yellow,7.96
+Spinleaf,mountain,triangular,False,orange,3.27
+Spinleaf,mountain,triangular,False,yellow,7.93
+Spinleaf,mountain,triangular,False,yellow,6.09
+Spinleaf,mountain,triangular,False,green,4.6
+Spinleaf,mountain,triangular,False,green,8.41
+Spinleaf,mountain,triangular,False,orange,8.74
+Spinleaf,mountain,triangular,False,yellow,6.79
+Spinleaf,mountain,triangular,False,yellow,3.44
+Spinleaf,mountain,triangular,False,green,7.62
+Spinleaf,mountain,triangular,False,orange,5.37
+Spinleaf,mountain,triangular,False,yellow,4.48
+Spinleaf,mountain,triangular,False,green,8.15
+Spinleaf,mountain,triangular,False,orange,3.86
+Spinleaf,mountain,triangular,False,yellow,7.27
+Spinleaf,mountain,triangular,False,orange,7.54
+Spinleaf,mountain,triangular,False,yellow,4.58
+Spinleaf,mountain,triangular,False,orange,4.86
+Spinleaf,mountain,triangular,False,yellow,6.76
+Spinleaf,mountain,triangular,False,yellow,4.72
+Spinleaf,mountain,triangular,False,orange,4.67
+Spinleaf,mountain,triangular,False,green,3.62
+Spinleaf,mountain,triangular,False,yellow,8.69
+Spinleaf,mountain,triangular,False,orange,3.16
+Spinleaf,mountain,triangular,False,green,4.5
+Spinleaf,mountain,triangular,False,yellow,3.42
+Spinleaf,mountain,triangular,False,yellow,6.13
+Spinleaf,mountain,triangular,False,green,8.68
+Spinleaf,mountain,triangular,False,green,3.7
+Spinleaf,mountain,triangular,False,yellow,4.63
+Spinleaf,mountain,triangular,False,orange,5.88
+Spinleaf,mountain,triangular,False,green,7.52
+Spinleaf,mountain,triangular,False,green,3.37
+Spinleaf,mountain,triangular,False,orange,8.43
+Spinleaf,mountain,triangular,False,orange,6.59
+Spinleaf,mountain,triangular,False,yellow,4.59
+Spinleaf,mountain,triangular,False,orange,3.8
+Spinleaf,mountain,triangular,False,yellow,6.74
+Spinleaf,mountain,triangular,False,yellow,5.77
+Spinleaf,mountain,triangular,False,yellow,5.03
+Spinleaf,mountain,triangular,False,green,5.3
+Spinleaf,mountain,triangular,False,yellow,6.38
+Spinleaf,mountain,triangular,False,orange,6.69
+Spinleaf,mountain,triangular,False,yellow,4.55
+Spinleaf,mountain,triangular,False,orange,7.15
