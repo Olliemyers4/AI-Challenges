@@ -3,7 +3,7 @@
         "name": "Moonshade Vine",
         "heightmin": 5,
         "heightmax": 10,
-        "colour": ["blue", "black","purple"],
+        "colours": ["blue", "black","purple"],
         "shape": "round",
         "flowering": false,
         "climate": "temperate"
@@ -12,7 +12,7 @@
         "name": "Firebloom",
         "heightmin": 1,
         "heightmax": 3,
-        "colour": ["red", "orange","yellow"],
+        "colours": ["red", "orange","yellow"],
         "shape": "spike",
         "flowering": true,
         "climate": "arid"
@@ -21,7 +21,7 @@
         "name": "Everfrost Lily",
         "heightmin": 2,
         "heightmax": 5,
-        "colour": ["white", "blue"],
+        "colours": ["white", "blue"],
         "shape": "round",
         "flowering": true,
         "climate": "mountain"
@@ -31,7 +31,7 @@
         "name": "Shadowleaf",
         "heightmin": 1,
         "heightmax": 2,
-        "colour": ["black", "green"],
+        "colours": ["black", "green"],
         "shape": "triangular",
         "flowering": false,
         "climate": "temperate"
@@ -40,7 +40,7 @@
         "name": "Cureleaf",
         "heightmin": 3,
         "heightmax": 6,
-        "colour": ["green", "yellow"],
+        "colours": ["green", "yellow"],
         "shape": "round",
         "flowering": true,
         "climate": "arid"
@@ -49,7 +49,7 @@
         "name": "Rainbow Orchid",
         "heightmin": 4,
         "heightmax": 8,
-        "colour": ["red", "blue","green","yellow","orange","purple","white","black"],
+        "colours": ["red", "blue","green","yellow","orange","purple","white","black"],
         "shape": "rectangular",
         "flowering": true,
         "climate": "temperate"
@@ -58,7 +58,7 @@
         "name": "Shiftleaf",
         "heightmin": 6,
         "heightmax": 12,
-        "colour": ["purple", "blue","black","yellow"],
+        "colours": ["purple", "blue","black","yellow"],
         "shape": "spike",
         "flowering": true,
         "climate": "arid"
@@ -67,7 +67,7 @@
         "name": "Spinleaf",
         "heightmin": 3,
         "heightmax": 9,
-        "colour": ["green", "yellow","orange"],
+        "colours": ["green", "yellow","orange"],
         "shape": "triangular",
         "flowering": false,
         "climate": "mountain"
