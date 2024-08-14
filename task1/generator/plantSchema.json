@@ -1,0 +1,25 @@
+{
+    "type":"object",
+    "properties":{
+        "name":{"type":"string"},
+        "heightmin":{"type":"integer"},
+        "heightmax":{"type":"integer"},
+        "colours":{
+                    "type":"array",
+                    "items":{
+                        "type":"string",
+                        "enum":["red","blue","green","yellow","orange","purple","white","black"]
+                    }
+                },
+        "shape":{
+                    "type":"string",
+                    "enum":["round","triangular","rectangular","spike"]
+                },
+        "flowering":{"type":"boolean"},
+        "climate":{
+            "type":"string",
+            "enum":["arid","mountain","temperate"]
+            }
+        },
+    "required":["name","heightmin","heightmax","colours","shape","flowering","climate"]
+}
