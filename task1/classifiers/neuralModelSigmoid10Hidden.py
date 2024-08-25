@@ -20,10 +20,10 @@ model = nc.NeuralClassifier(inputParams, hiddenParams, outputParams, activation)
 #Initialise trainer
 batchSize = 100
 criterion = torch.nn.CrossEntropyLoss()
-optimizer = torch.optim.SGD(model.parameters(), lr=0.01)
+optimiser = torch.optim.SGD(model.parameters(), lr=0.01)
 name = 'neuralModelSigmoid10Hidden'
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-trainer = nc.NeuralTrainer(model, train, valid, test, batchSize, criterion, optimizer,name, device)
+trainer = nc.NeuralTrainer(model, train, valid, test, batchSize, criterion, optimiser,name, device)
 
 trainer.trainModel(1000)
