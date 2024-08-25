@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Moonshade Vine",
+        "heightmin": 5,
+        "heightmax": 10,
+        "colours": ["blue", "black","purple"],
+        "shape": "round",
+        "flowering": false,
+        "climate": "temperate"
+    },
+    {
+        "name": "Firebloom",
+        "heightmin": 10,
+        "heightmax": 15,
+        "colours": ["red", "orange","yellow"],
+        "shape": "spike",
+        "flowering": true,
+        "climate": "arid"
+    },
+    {
+        "name": "Everfrost Lily",
+        "heightmin": 5,
+        "heightmax": 8,
+        "colours": ["white", "blue"],
+        "shape": "round",
+        "flowering": true,
+        "climate": "mountain"
+
+    },
+    {
+        "name": "Shadowleaf",
+        "heightmin": 2,
+        "heightmax": 4,
+        "colours": ["black", "green"],
+        "shape": "triangular",
+        "flowering": false,
+        "climate": "temperate"
+    },
+    {
+        "name": "Cureleaf",
+        "heightmin": 1,
+        "heightmax": 2,
+        "colours": ["green", "yellow"],
+        "shape": "round",
+        "flowering": true,
+        "climate": "arid"
+    }
+
+
+]
