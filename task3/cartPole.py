@@ -17,7 +17,7 @@ def plotScores(scores):
     plt.pause(0.001)  # pause a bit so that plots are updated
 
 
-env = gym.make('CartPole-v1',render_mode = "human")
+env = gym.make('CartPole-v1')
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -26,16 +26,16 @@ targetNet = dqn.DQN(env.observation_space.shape[0], 64, env.action_space.n).to(d
 targetNet.load_state_dict(policyNet.state_dict())
 
 memory = dqn.ReplayMemory(1000)
-batchSize = 32
+batchSize = 128
 episodes = 1000
 gamma = 0.99 # discount factor
-lr = 0.001
+lr = 0.0001
 optimiser = torch.optim.Adam(policyNet.parameters(), lr=lr)
 tau = 0.01 # soft update rate
 params = dqn.Parameters(batchSize=batchSize,gamma=gamma,device=device,optimiser=optimiser,learningRate=lr,tau=tau)
 steps = 0
 
-epsStart = 1
+epsStart = 0.9
 epsEnd = 0.01
 epsDecay = 1000
 

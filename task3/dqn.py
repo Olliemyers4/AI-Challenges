@@ -44,7 +44,7 @@ class Parameters(object):
 def selectAction(observation,epsilonThreshold,env,model,params):
     # epsilon greedy
     epsilonRandom = random.random()
-    if epsilonRandom < epsilonThreshold:
+    if epsilonRandom > epsilonThreshold:
         # greedy
         return torch.tensor([[env.action_space.sample()]], device=params.device, dtype=torch.long)
     else:
